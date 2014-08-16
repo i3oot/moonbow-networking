@@ -1,0 +1,10 @@
+Package: moonbow-networking
+Version: 1.0-%DATE%
+Description: Moonbow Lightpainting System - Network Setup
+Architecture: armv7a
+Section: extra
+Priority: optional
+Maintainer: i3oot <tobias.waller@googlemail.com>
+Homepage: https://github.com/i3oot/moonbow-networking
+Depends: hostapd
+Source: https://github.com/i3oot/moonbow-networking
